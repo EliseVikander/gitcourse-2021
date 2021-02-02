@@ -9,7 +9,8 @@ public class Main {
 
         System.out.println(titanic);
 
-
+        System.out.println("GIT GIT");
+        System.out.println("GITTAN");
 
     }
 
